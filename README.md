@@ -1,3 +1,4 @@
+<img src="assets/img/avatar.png" alt="avatar de Julianna Fernandes" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Olá, me chamo Julianna! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
