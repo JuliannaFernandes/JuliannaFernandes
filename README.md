@@ -4,7 +4,7 @@
 
 <p align="left"> 
  Estou focada no desenvolvimento <strong>back-end</strong> e em busca de oportunidades para colocar em prática os conhecimentos adquiridos até agora.</br> 
-  Atualmente, estou estudando em <strong>Java</strong> e <strong>Spring Boot</strong>, com o objetivo de expandir minhas habilidades.
+  Atualmente, estou estudando <strong>Java</strong> e <strong>Spring Boot</strong>, com o objetivo de expandir minhas habilidades.
 </p>
 
 <p align="left">
